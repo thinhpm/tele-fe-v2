@@ -1,0 +1,29 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "iconSrc": "https://john.sandbox.etdevs.com/device-repair/wp-content/uploads/sites/22/2022/06/device-repair-icon-8b.png",
+        "title": "Web System Development & BPO",
+        "description": "We Build And Develop Website Systems In Many Fields In Diversity Way. Besides, It Also Provides Data Entry Service With High Quality"
+      },
+      {
+        "id": 2,
+        "iconSrc": "https://john.sandbox.etdevs.com/device-repair/wp-content/uploads/sites/22/2022/06/device-repair-icon-8b.png",
+        "title": "Co-working Space Business",
+        "description": "With The Rental Co-working Space Service Includes A Lot Of Utilities, We Ensure To Meet The Requirements Of Customers"
+      },
+      {
+        "id": 3,
+        "iconSrc": "https://john.sandbox.etdevs.com/device-repair/wp-content/uploads/sites/22/2022/06/device-repair-icon-8b.png",
+        "title": "Entrepreneurship / Independence Support",
+        "description": "We Are Always Willing To Support Projects, Startup Ideas Which Will Help You Feel More Confident To Complete Your Dream"
+      },
+      {
+        "id": 4,
+        "iconSrc": "https://john.sandbox.etdevs.com/device-repair/wp-content/uploads/sites/22/2022/06/device-repair-icon-8b.png",
+        "title": "abcxyz",
+        "description": "We Are Always Willing To Support Projects, Startup Ideas Which Will Help You Feel More Confident To Complete Your Dream"
+      }
+    ]
+  }
+  

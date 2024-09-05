@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "_id": "6696954285c5c13878fc9491",
+      "account": [
+        {
+          "name": "thinhpm",
+          "token": "query_id=AAE8kMs6AAAAADyQyzo7QCqi&user=%7B%22id%22%3A986419260%2C%22first_name%22%3A%22Thinhpm%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22thinhpm%22%2C%22language_code%22%3A%22en%22%2C%22is_premium%22%3Atrue%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725433763&hash=52535e6d30ebcff3d42af9fbe3da6c9d7a8134e38cad73caa5dabc5b8752ac14",
+          "server": "13.215.174.62:3000",
+          "proxy": "",
+          "active": false
+        },
+        {
+          "name": "asuna",
+          "token": "query_id=AAHpAL1KAgAAAOkAvUqVHtEk&user=%7B%22id%22%3A5548867817%2C%22first_name%22%3A%22Sirito%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22bapheoo%22%2C%22language_code%22%3A%22en%22%2C%22is_premium%22%3Atrue%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725438013&hash=e8e2d653fffca2d1eab3b49570d9f588ef8f6d093af2269b5ee46110283f3587",
+          "server": "13.215.174.62:3000",
+          "proxy": "",
+          "active": true
+        }
+      ],
+      "game_name": "DenjenDog",
+      "game_id": "denjendog",
+      "created_at": "2024-07-16T07:57:25Z",
+      "updated_at": "2024-07-16T07:57:25Z"
+    }
+  ],
+  "status": "Success"
+}
