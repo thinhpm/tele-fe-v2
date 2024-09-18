@@ -11,12 +11,20 @@ onMounted(() => {
   console.log('index: onMounted')
 })
 
+import Services from '~/layouts/Services/Services.vue';
+import History from '~/layouts/History/History.vue';
+import Mv from '~/layouts/Mv.vue';
+import FAQ from '@/components/FAQ.vue';
+// import GameUserLayout from '~/layouts/GameAccountSelect.vue';
+import GameUserSelect from '~/layouts/GameAccountSelect.vue'
+
+
 </script>
 
 <template>
   <div class="starter">
-    <!-- <Mv />
-    <Services />
+    <Mv />
+    <!-- <Services />
     <History />
     <FAQ /> -->
     <div className="container GameUserSelect">
