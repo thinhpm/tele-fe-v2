@@ -1,0 +1,16 @@
+{
+    "faqs": [
+      {
+        "question": "Nuxt 3 là gì?",
+        "answer": "Nuxt 3 là một framework dựa trên Vue.js để xây dựng các ứng dụng web hiệu suất cao."
+      },
+      {
+        "question": "Lazy loading trong Nuxt 3 hoạt động như thế nào?",
+        "answer": "Lazy loading trong Nuxt 3 cho phép bạn tải các components khi cần thiết, giúp cải thiện hiệu suất của ứng dụng."
+      },
+      {
+        "question": "Tại sao nên sử dụng Nuxt 3?",
+        "answer": "Nuxt 3 cung cấp nhiều tính năng mạnh mẽ như SSR, SSG, và file-based routing, giúp phát triển ứng dụng web nhanh chóng và hiệu quả."
+      }
+    ]
+  }

@@ -1,0 +1,66 @@
+html {
+}
+
+body {
+  color: $color-main-text;
+  font-family: "Noto Sans JP", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
+  word-break: break-all;
+  text-size-adjust: 100%;
+}
+
+a {
+  text-decoration: none;
+
+  &[href^="tel:"] {
+    &:hover {
+      color: #00f;
+    }
+  }
+}
+
+*:focus:not(:focus-visible),
+*::before:focus:not(:focus-visible),
+*::after:focus:not(:focus-visible) {
+  outline: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+img {
+  vertical-align: bottom;
+}
+
+.p-page {
+  padding: 20px;
+}
+
+.c-head1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.c-head2 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 60px 0;
+}
