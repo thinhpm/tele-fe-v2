@@ -1,9 +1,9 @@
 module.exports = {
   CONFIG_FILE: 'local',
-  baseOrigin: 'https://arcplg.com',
+  baseOrigin: '',
   basePath: '/',
-  apiUrl: 'https://api.dev.mobila-carlife.jp/api/v1',
-  staticUrl: 'https://static.arcplg.com/',
+  apiUrl: '',
+  staticUrl: '',
   gtmId: '',
   // basicAuthName: 'test',
   // basicAuthPass: 'testtest!',

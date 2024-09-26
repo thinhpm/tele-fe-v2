@@ -1,9 +1,9 @@
 module.exports = {
   CONFIG_FILE: 'stg',
-  baseOrigin: 'https://arcplg.com',
+  baseOrigin: '',
   basePath: '/',
-  apiUrl: 'https://arcplg.com/api/v2/',
-  staticUrl: 'https://static.arcplg.com/',
+  apiUrl: '',
+  staticUrl: '',
   gtmId: '',
   // basicAuthName: 'test',
   // basicAuthPass: 'testtest!',
