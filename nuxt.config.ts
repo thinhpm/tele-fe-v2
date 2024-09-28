@@ -55,7 +55,7 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'ja',
       },
-      title: 'Concrete',
+      title: 'ĐM code Game',
       titleTemplate: '%s',
       meta: [
         { charset: 'utf-8' },
