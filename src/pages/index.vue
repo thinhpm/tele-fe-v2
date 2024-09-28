@@ -10,15 +10,12 @@ onMounted(() => {
   // console.log('index: onMounted', ret)
   console.log('index: onMounted')
 })
+import GameUserSelect from '~/layouts/GameAccountSelect.vue'
 
 </script>
 
 <template>
   <div class="starter">
-    <!-- <Mv />
-    <Services />
-    <History />
-    <FAQ /> -->
     <div className="container GameUserSelect">
       <GameUserSelect />
     </div>
@@ -27,11 +24,16 @@ onMounted(() => {
 
 
 <style>
-  .mv img {
-    width: 100%;
-  }
+.header {
+  display: none;
+}
 
-  .GameUserSelect {
-    padding-bottom: 100px;
-  }
+.mv img {
+  width: 100%;
+}
+
+.GameUserSelect {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
 </style>
